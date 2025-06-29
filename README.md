@@ -1,6 +1,6 @@
 # 💫 Hey there! I'm Ismail Oni — OniCode ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F58A&vCenter=true&width=435&lines=Front-end+Dev+🚀;Future+Full-stack+Engineer+💻;Math+Brain+✔️;Code.+Build.+Innovate." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F58A&vCenter=true&width=435&lines=Front-end+Dev+🚀;Future+Full-stack+Engineer+💻;Math+Brain+✔️;Code.+Build.+Innovate." alt="Typing SVG" />
 
 ---
 
@@ -48,12 +48,13 @@
 
 ## 💪 Skills
 
-| Skill        | Progress                                    |
-| ------------ | ------------------------------------------- |
-| React        | ![React](https://progress-bar.dev/85/)      |
-| Next.js      | ![Next.js](https://progress-bar.dev/80/)    |
-| Tailwind CSS | ![Tailwind](https://progress-bar.dev/90/)   |
-| TypeScript   | ![TypeScript](https://progress-bar.dev/70/) |
+| Skill        | Progress                              |
+|--------------|---------------------------------------|
+| React        | ![85%](https://img.shields.io/badge/React-85%25-blue) |
+| Next.js      | ![80%](https://img.shields.io/badge/Next.js-80%25-black) |
+| Tailwind CSS | ![90%](https://img.shields.io/badge/Tailwind-90%25-teal) |
+| TypeScript   | ![70%](https://img.shields.io/badge/TypeScript-70%25-blue) |
+
 
 ---
 
@@ -80,7 +81,7 @@
 
 ---
 
-![Meme](https://i.imgflip.com/65efzo.jpg)
+![Coding Meme](https://raw.githubusercontent.com/ismailoni/ismailoni/main/assets/coding.gif)
 
 ---
 
