@@ -81,10 +81,6 @@
 
 ---
 
-![Coding Meme](https://raw.githubusercontent.com/ismailoni/ismailoni/main/assets/coding.gif)
-
----
-
 ⚡ *Code like lightning, refactor like a monk.*
 ⭐️ Don’t forget to **star** my repos if you like what you see!
 
