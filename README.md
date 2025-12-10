@@ -1,12 +1,12 @@
 # 💫 Hey there! I'm Ismail Oni — OniCode ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F58A&vCenter=true&width=435&lines=Front-end+Dev+🚀;Future+Full-stack+Engineer+💻;Math+Brain+✔️;Code.+Build.+Innovate." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F58A&vCenter=true&width=435&lines=+Full-stack+Engineer+💻;Math+Brain+✔️;Code.+Build.+Innovate." alt="Typing SVG" />
 
 ---
 
 ## 🚀 About Me
 
-* 🎯 Front-end ninja & aspiring full-stack wizard
+* 🎯 Ffull-stack wizard
 * 🎓 Industrial Mathematics (CS option), University of Lagos
 * 🌱 Currently learning backend & shipping cool projects
 * 💬 Ask me about **React**, **Next.js**, **Tailwind**, or late-night debugging snacks 😎
@@ -22,6 +22,7 @@
 ## ⚡ Featured Projects
 
 ✨ **[Ismail Portfolio V1](https://ismail-portfolio-v1.vercel.app/)** — Personal portfolio, fast and sleek.
+💸 **[Haaflah Event App](https://haaflah.vercel.app/)**
 🎨 **Color Guessing Game** — Fun React game for HNG Internship.
 🎟️ **Conference Ticket Generator** — Next.js + Shadcn UI, smooth and stylish.
 💸 **Reconxi App** *(coming soon)* — AI-powered financial reconciliation.
