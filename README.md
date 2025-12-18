@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 🎯 Ffull-stack wizard
+* 🎯 Full-stack wizard
 * 🎓 Industrial Mathematics (CS option), University of Lagos
 * 🌱 Currently learning backend & shipping cool projects
 * 💬 Ask me about **React**, **Next.js**, **Tailwind**, or late-night debugging snacks 😎
